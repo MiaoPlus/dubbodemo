@@ -1,4 +1,4 @@
-# dubbodemo
+# Dubbo
 Dubbo入门demo
 Dubbo是阿里巴巴开源的基于 Java 的高性能 RPC 分布式服务框架，现已成为 Apache 基金会孵化项目。
 
