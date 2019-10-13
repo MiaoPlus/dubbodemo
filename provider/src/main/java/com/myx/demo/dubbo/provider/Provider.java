@@ -1,4 +1,4 @@
-package src.main.java.com.myx.demo.dubbo.provider;
+package com.myx.demo.dubbo.provider;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
